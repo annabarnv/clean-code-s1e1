@@ -32,7 +32,7 @@
 .task-input, .task-label {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .task-row {
   display: flex;
@@ -122,7 +122,7 @@
   width: 226px;
 }
 .item-input {
-  width: 226px
+  width: 226px;
 }
 .btn.delete-btn .remove-image {
   height: 2em;
@@ -141,12 +141,12 @@
 
 /* Edit Task*/
 .task-item .item-input {
-  display: none
+  display: none;
 }
 
 .task-item.edit-mode .item-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task-item.edit-mode .task-label {
